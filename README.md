@@ -170,18 +170,4 @@ The RFM scatter plot (Plot 10) visually maps customers in the Recency × Frequen
 | `payment_method` | string | Payment type |
 | `returned` | int | 1 if returned, 0 otherwise |
 
----
 
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
----
-
-## 📄 License
-
-[MIT](LICENSE)
-
----
-
-*Project developed as part of portfolio work in data analysis and business intelligence (Mar–Apr 2025).*
